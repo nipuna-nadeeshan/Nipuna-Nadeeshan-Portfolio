@@ -1,10 +1,10 @@
 import React from 'react';
-import { BsArrowUpRight } from 'react-icons/bs';
-import { FaHtml5, FaReact } from 'react-icons/fa';
-import { SiMongodb, SiFirebase, SiCss3, SiTailwindcss, SiJavascript } from 'react-icons/si';
+// import { BsArrowUpRight } from 'react-icons/bs';
+// import { FaHtml5, FaReact } from 'react-icons/fa';
+// import { SiMongodb, SiFirebase, SiCss3, SiTailwindcss, SiJavascript } from 'react-icons/si';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import { Link } from 'react-scroll';
+// import { Link } from 'react-scroll';
 
 const services = [
   {
@@ -25,9 +25,7 @@ const services = [
 ];
 
 const Services = () => {
-  const handleSeeWorkClick = () => {
-    window.open('https://github.com/Shanuka-A', '_blank');
-  };
+  
 
   return (
     <section className="section" id="services">

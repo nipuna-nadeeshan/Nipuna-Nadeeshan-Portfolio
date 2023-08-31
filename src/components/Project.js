@@ -5,10 +5,10 @@ import mad from '../assets/mad.png';
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import { BsArrowUpRight } from 'react-icons/bs';
-import { FaReact } from 'react-icons/fa';
+// import { BsArrowUpRight } from 'react-icons/bs';
+// import { FaReact } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
-import { Link } from 'react-scroll';
+// import { Link } from 'react-scroll';
 
 
 
