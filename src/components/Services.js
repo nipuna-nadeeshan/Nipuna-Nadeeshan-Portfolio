@@ -50,7 +50,7 @@ const Services = () => {
               the individual is proficient in crafting captivating and dynamic frontend designs for their web endeavors.
             </p>
             <a
-                href="https://github.com/NipunPalliyaguru" target='_blank'
+                href="https://github.com/NipunPalliyaguru" target='_blank' rel="noopener noreferrer"
                 className=" font-general-medium flex text-justify  w-36 sm:w-48 mt-0 s:mt-8 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-600 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500  hover:text-white duration-500"
                 aria-label="Download Resume"
               >
