@@ -7,7 +7,7 @@ const Header = () => {
     <header className="py-8">
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
-          <a href="https://nipuna-nadeeshan..netlify.app">
+          <a href="https://nipuna-nadeeshan.netlify.app">
             {" "}
             <img
               src={Logo}
