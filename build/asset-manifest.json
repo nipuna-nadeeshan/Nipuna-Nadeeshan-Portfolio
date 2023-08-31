@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2acc1912.css",
+    "main.js": "/static/js/main.a2583885.js",
+    "static/media/NipunCV.pdf": "/static/media/NipunCV.c6ec25ad69dd39c99e94.pdf",
+    "static/media/RecMS.png": "/static/media/RecMS.3434c300840fee7e2509.png",
+    "static/media/mad.png": "/static/media/mad.801a616456fe9d43a1d2.png",
+    "static/media/PETSM.png": "/static/media/PETSM.3bf60203b3da4cab650c.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/profile.png": "/static/media/profile.2e326c832bde1effa33c.png",
+    "static/media/256.png": "/static/media/256.40499f28bc5321d26481.png",
+    "static/media/ABOUT ME.gif": "/static/media/ABOUT ME.b658ecbbd46590b0f1eb.gif",
+    "static/media/FMS.png": "/static/media/FMS.726b480379870d31e6a2.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/azure.png": "/static/media/azure.038f7e7d91d183de2a56.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.2acc1912.css.map": "/static/css/main.2acc1912.css.map",
+    "main.a2583885.js.map": "/static/js/main.a2583885.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2acc1912.css",
+    "static/js/main.a2583885.js"
+  ]
+}
