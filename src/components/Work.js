@@ -1,8 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import { BsArrowUpRight } from 'react-icons/bs';
-import { FaReact } from 'react-icons/fa';
 
 import html from '../assets/html.png';
 import css from '../assets/css.png';
