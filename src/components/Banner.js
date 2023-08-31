@@ -88,7 +88,7 @@ const Banner = () => {
                 <a href="https://www.linkedin.com/in/nipuna-nadeeshan">
                   <FaLinkedin />
                 </a>
-                <a href="https://nipuna-nadeeshan..netlify.app">
+                <a href="https://nipuna-nadeeshan.netlify.app">
                   <FaLink />
                 </a>
               </motion.div>
