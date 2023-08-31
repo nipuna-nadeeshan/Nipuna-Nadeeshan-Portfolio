@@ -76,7 +76,7 @@ const Project = () => {
                             techs.map(({ id, src, title, style, link, logo }) => (
                                 <div key={id} className={`bg-opacity-100 bg-sky-900 shadow-sm hover:scale-125 pt-2 duration-500  rounded-lg ${style}`}>
                                     <center>
-                                    <a href={link} target='_blank'>
+                                    <a href={link} target='_blank' rel="noopener noreferrer">
                                         <img src={src} alt="" className='w-full mx-auto' />
                                         <p className='mt-4'>{title}</p>
                                         <p className='object-center py-4 w-11  shadow-sm  ' title='Get The Code'>
