@@ -84,10 +84,10 @@ const Banner = () => {
                 viewport={{ once: false, amount: 0.7 }}
                 className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0  "
               >
-                <a href="https://github.com/NipunPalliyaguru">
+                <a href="https://github.com/nipuna-nadeeshan">
                   <FaGithub />
                 </a>
-                <a href="inkedin.com/in/nipun-palliyaguru-98a470216/">
+                <a href="https://www.linkedin.com/in/nipuna-nadeeshan">
                   <FaLinkedin />
                 </a>
                 <a href="">

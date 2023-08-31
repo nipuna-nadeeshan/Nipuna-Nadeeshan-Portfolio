@@ -32,7 +32,7 @@ const About = () => {
         <h2 className='h2 text-fuchsia-300'>About me.</h2>
         <h3 className='h3 mb-4'>I'm an undergraduate Student at SLIIT </h3>
         <p className='mb-6 text-[20px] text-justify'>
-        Greetings! My name is Nipun, and presently, I am pursuing my bachelor's degree at the SLIIT Faculty of Computing. As a diligent scholar, I possess a fervent desire to deliver unparalleled excellence in service. I consistently endeavor to accomplish assignments to the utmost of my capabilities, driven by my unwavering commitment to attaining greatness. I approach my obligations with utmost sincerity and remain motivated to give my utmost in both my professional obligations and everyday endeavors.
+        Greetings! My name is Nipuna, and presently, I am pursuing my bachelor's degree at the SLIIT Faculty of Computing. As a diligent scholar, I possess a fervent desire to deliver unparalleled excellence in service. I consistently endeavor to accomplish assignments to the utmost of my capabilities, driven by my unwavering commitment to attaining greatness. I approach my obligations with utmost sincerity and remain motivated to give my utmost in both my professional obligations and everyday endeavors.
         
         </p>
         {/*stats*/}
