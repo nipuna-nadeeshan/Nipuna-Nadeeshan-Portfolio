@@ -15,32 +15,32 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGlobe />,
-		url: 'https://nipun-ayodya.netlify.app',
+		url: 'https://nipuna-nadeeshan.netlify.app',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/NipunPalliyaguru',
+		url: 'https://github.com/nipuna-nadeeshan',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/nipun-palliyaguru-98a470216/',
+		url: 'https://www.linkedin.com/in/nipuna-nadeeshan',
 	},
 	{
 		id: 4,
 		icon: <FiFacebook />,
-		url: 'https://fcebook.com/nipun.ayodya',
+		url: 'https://www.facebook.com/nipuna.nadeeshan.1',
 	},
 	{
 		id: 4,
 		icon: <FiInstagram />,
-		url: 'https://www.instagram.com/Nipun.Ayodya/',
+		url: 'https://www.instagram.com/_neo___n.n/',
 	},
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/nipin.ayodya89',
+		url: 'https://twitter.com/Nadeeshan_NN',
 	},
 	
 ];

@@ -5,12 +5,12 @@ import { fadeIn } from '../variants';
 import html from '../assets/html.png';
 import css from '../assets/css.png';
 import javascript from '../assets/javascript.png';
-import mongodb from '../assets/mongodb.png';
 import react from '../assets/react.png';
 import tailwind from '../assets/tailwind.png';
 import node from '../assets/node.png';
 import github from '../assets/github.png';
-import azure from '../assets/azure.png';
+import flutter from '../assets/flutter.png';
+import java from '../assets/java.png';
 
 
 const Work = () => {
@@ -36,9 +36,9 @@ const Work = () => {
     },
     {
       id:4,
-      src:mongodb,
-      title:'MongoDB',
-      style:'shadow-green-700'
+      src:java,
+      title:'Java',
+      style:'shadow-red-500'
     },
     {
       id:5,
@@ -66,8 +66,8 @@ const Work = () => {
     },
     {
       id:9,
-      src:azure,
-      title:'Azure',
+      src:flutter,
+      title:'Flutter',
       style:'shadow-sky-400'
     },
   ]

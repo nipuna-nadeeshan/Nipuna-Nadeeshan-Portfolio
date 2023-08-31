@@ -20,6 +20,7 @@ const App = () => {
       <Work />
       <Project />
       <Apps />
+      
 
       { <div className='h-[400px]'></div> }
     </div>

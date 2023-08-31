@@ -1,7 +1,9 @@
-import FMS from '../assets/FMS.png';
-import REC from '../assets/RecMS.png';
-import PET from '../assets/PETSM.png';
-import mad from '../assets/mad.png';
+import MAD from '../assets/mad.png';
+import ITP from '../assets/ITP.png';
+import OCR from '../assets/ocr.png';
+import MOM from '../assets/mom.png';
+import SIG from '../assets/sig.png';
+import BLOOM from '../assets/bloom.png';
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
@@ -17,36 +19,53 @@ const Project = () => {
     const techs = [
         {
             id: 1,
-            src: PET,
-            title: 'Pet Shelter Management System',
+            src: ITP,
+            title: 'Construction Management System',
             style: 'shadow-blue-500',
-            link: 'https://github.com/NipunPalliyaguru/Happy-Tails-Pet-Shelter-Management-System-ITP',
+            link: 'https://github.com/nipuna-nadeeshan/ITP-Samod-Construction-Comapany-Mangement-System.git',
             logo: FaGithub
         },
         {
             id: 2,
-            src: REC,
-            title: 'Recipe Management System  ',
+            src: MAD,
+            title: 'OFFER ME - Mobile Application',
             style: 'shadow-blue-500',
-            link: 'https://github.com/NipunPalliyaguru/Recipe-Management-System',
+            link: 'https://github.com/nipuna-nadeeshan/OFFER-ME-Android-App.git',
             logo: FaGithub
         },
         {
             id: 3,
-            src: FMS,
-            title: 'Fuel Management System',
+            src: MOM,
+            title: 'Moms Pot - Web Application',
             style: 'shadow-blue-500',
-            link: 'https://github.com/NipunPalliyaguru/Online-Fuel-Management-System',
+            link: 'https://github.com/SKYREK/Moms-Pot.git',
             logo: FaGithub
         },
         {
             id: 4,
-            src: mad,
-            title: 'BODIMA App',
+            src: OCR,
+            title: 'OCR - Allergy Finder App',
             style: 'shadow-blue-500',
-            link: 'https://github.com/NipunPalliyaguru/BODIMA-MAD-Mobile-App-Y2S2',
+            link: 'https://github.com/SKYREK/OCR-Allergy-Finder.git',
             logo: FaGithub
         },
+        {
+            id: 5,
+            src: SIG,
+            title: 'Signature Cuisine - Web Application',
+            style: 'shadow-blue-500',
+            link: 'https://github.com/SKYREK/OCR-Allergy-Finder.git',
+            logo: FaGithub
+        },
+        {
+            id: 6,
+            src: BLOOM,
+            title: 'BLOOMROOM - Mobile Application',
+            style: 'shadow-blue-500',
+            link: 'https://github.com/SKYREK/Bloom-Room-Mobile-Application.git',
+            logo: FaGithub
+        },
+        
 
     ]
     return (
