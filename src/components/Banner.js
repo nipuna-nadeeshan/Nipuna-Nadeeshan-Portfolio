@@ -4,9 +4,7 @@ import { FaGithub, FaLinkedin, FaLink } from 'react-icons/fa';
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-// import pdf from '../assets/NipunCV.pdf';
-
-import pdf from '../assets/Nipuna Nadeeshan CV.pdf';
+import pdf from '../assets/NadeeshanCV.pdf';
 
 const Banner = () => {
   return (
@@ -62,7 +60,7 @@ const Banner = () => {
             >
 
               <a
-                download="NipunCV.pdf" href={pdf}
+                download="NadeeshanCV.pdf" href={pdf}
                 className=" font-general-medium flex text-justify  w-36 sm:w-48 mt-0 s:mt-8 mb-6 sm:mb-0 text-lg border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-600 focus:ring-1 focus:ring-indigo-900 hover:bg-indigo-500  hover:text-white duration-500"
                 aria-label="Download Resume"
               >
