@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 // import pdf from '../assets/NipunCV.pdf';
 
-import pdf from '../assets/NipunCV.pdf';
+import pdf from '../assets/Nipuna Nadeeshan CV.pdf';
 
 const Banner = () => {
   return (
