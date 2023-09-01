@@ -42,8 +42,9 @@ const About = () => {
                 href="https://www.skyrek.com"
                 target="_blank"
                 rel="noopener noreferrer"
+                className=" underline"
               >
-                SKYREK
+                SKYREK (Pvt) Ltd
               </a>{" "}
               has honed my leadership and problem-solving skills, while my
               experience in developing various applications reflects my
