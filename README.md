@@ -1,6 +1,6 @@
-# Nipun-portfolio
+# Nipuna-portfolio
 
-Site  : https://nipun-ayodya.netlify.app/
+Site  : https://nipuna-nadeeshan.netlify.app/
 
 # Getting Started with Create React App
 
