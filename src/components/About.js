@@ -36,8 +36,7 @@ const About = () => {
               and entrepreneur currently pursuing my bachelor's degree at the
               SLIIT Faculty of Computing. With a strong foundation in software
               development and a flair for innovation, I thrive on creating
-              digital solutions that make a difference. My journey as a
-              co-founder and CEO at {" "}
+              digital solutions that make a difference.
               <a
                 href="https://www.skyrek.com"
                 target="_blank"
