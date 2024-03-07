@@ -32,25 +32,17 @@ const About = () => {
             <h2 className="h2 text-fuchsia-300">About me.</h2>
             <h3 className="h3 mb-4">I'm an undergraduate Student at SLIIT </h3>
             <p className="mb-6 text-[20px] text-justify">
-              Greetings! I'm Nipuna Nadeeshan, a passionate software engineer
-              and entrepreneur currently pursuing my bachelor's degree at the
-              SLIIT Faculty of Computing. With a strong foundation in software
-              development and a flair for innovation, I thrive on creating
-              digital solutions that make a difference.
-              <a
-                href="https://www.skyrek.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className=" underline"
-              >
-                SKYREK (Pvt) Ltd
-              </a>{" "}
-              has honed my leadership and problem-solving skills, while my
-              experience in developing various applications reflects my
-              commitment to practical, user-centric design. I'm dedicated to
-              harnessing technology's potential to simplify, enhance, and
-              inspire. Explore my portfolio to see my work and the projects I'm
-              proud to have crafted.
+              Greetings! I'm Nipuna Nadeeshan, an ambitious undergraduate
+              student at the SLIIT Faculty of Computing. As a dedicated software
+              engineer and aspiring entrepreneur, I am passionate about AI
+              development and its transformative potential. With a solid
+              grounding in software development and a keen interest in
+              artificial intelligence, I am committed to creating innovative
+              solutions that leverage cutting-edge technologies. My journey
+              involves exploring the depths of AI to craft solutions that
+              simplify complexities and inspire progress. Join me as I delve
+              into the realm of AI development, aiming to make a meaningful
+              impact in the digital landscape.
             </p>
 
             {/*stats*/}
