@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 
 import html from '../assets/html.png';
+import aws from '../assets/aws.png';
 import css from '../assets/css.png';
 import javascript from '../assets/javascript.png';
 import react from '../assets/react.png';
@@ -18,8 +19,8 @@ const Work = () => {
   const techs=[
     {
       id:1,
-      src:html,
-      title:'HTML',
+      src:aws,
+      title:'AWS',
       style:'shadow-orange-500'
     },
     {
